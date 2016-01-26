@@ -1,8 +1,8 @@
 {
-    "name": "chinatown34/braintree_laravel_5.2",
+    "name": "chinatown34/braintree_laravel",
     "description": "Braintree Service Provider for Laravel 5.x",
     "keywords": ["braintree","braintree laravel 5.x"],
-    "homepage": "https://github.com/chinatown34/braintree_laravel_5.2",
+    "homepage": "https://github.com/chinatown34/braintree_laravel",
     "license": "MIT",
     "authors": [
         {
