@@ -23,7 +23,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "ChinaTown\\Laravel5BillingBraintree": "src/"
+            "ChinaTown34\\Laravel5BillingBraintree": "src/"
         }
     },
     "minimum-stability": "stable"
