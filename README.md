@@ -4,7 +4,7 @@ Braintree for Laravel 5
 # Installation
 Add to composer.json this line:
 
-    "chinatown34/laravel5-billing-braintree": "1.*",
+    "chinatown34/braintree_laravel_5.2": "1.*",
     
 Add to config/app.php "providers" section:
 
