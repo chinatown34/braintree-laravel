@@ -8,7 +8,7 @@ Add to composer.json this line:
     
 Add to config/app.php "providers" section:
 
-    "Vovanmix\Laravel5BillingBraintree\BraintreeServiceProvider",
+    "ChinaTown34\Laravel5BillingBraintree\BraintreeServiceProvider",
 
 That's it!    
 
